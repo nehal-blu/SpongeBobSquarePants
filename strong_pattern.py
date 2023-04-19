@@ -1,0 +1,1 @@
+heartland_api_key="skapi_cert_MbS5BQCnonAA5nS9W-pEB0i5FcLoXRqtEmdN0vKahQ"
